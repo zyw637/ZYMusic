@@ -1,0 +1,4 @@
+export const GET_SONG_DETAILS = "GET_SONG_DETAILS";
+export const GET_SONG_LYRICS = "GET_SONG_LYRICS";
+export const GET_SIMI_PLAYLIST = "GET_SIMI_PLAYLIST";
+export const GET_SIMI_SONG = "GET_SIMI_SONG";

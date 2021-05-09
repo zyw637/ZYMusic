@@ -1,0 +1,5 @@
+export const GET_ARTIST_HOT_SONG = "GET_ARTIST_HOT_SONG";
+export const GET_ARTIST_ALBUM = "GET_ARTIST_ALBUM";
+export const GET_ARTIST_MV = "GET_ARTIST_MV";
+export const GET_MV_PICTURE = "GET_MV_PICTURE";
+export const GET_MV_PLAYURL = "GET_MV_PLAYURL";
